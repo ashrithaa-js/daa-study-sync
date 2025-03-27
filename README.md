@@ -5,7 +5,7 @@
 - **KAUSHIKA C** (23PW12)
 
 ## Overview
-Welcome to your new study buddy, StudySync! If you've ever found yourself buried under a mountain of books with a to-do list longer than your arm, this app is here to save the day. Picture this: a tool that not only helps you manage your study time but does so with flair! With a sprinkle of algorithms, a dash of color, and a commitment to keeping you on track, this app transforms your study chaos into a streamlined, organized plan—making studying feel less like a chore and more like an adventure!
+Welcome to your new study buddy, StudySync! If you've ever found yourself buried under a mountain of books with a to-do list longer than your arm, this app is here to save the day. Picture this: a tool that not only helps you manage your study time but does so with flair! With a sprinkle of algorithms, a dash of color, and a commitment to keeping you on track, this app transforms your study chaos into a streamlined, organized plan - making studying feel less like a chore and more like an adventure!
 
 ## Key Features
 
